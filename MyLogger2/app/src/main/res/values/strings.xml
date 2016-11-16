@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Everyday Life Logger</string>
+    <string name="doing"> 현재 하고있을 일 </string>
+</resources>

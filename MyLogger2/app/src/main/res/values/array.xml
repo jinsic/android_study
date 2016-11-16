@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="whatToDo">
+        <item>학습</item>
+        <item>운동</item>
+        <item>식사</item>
+        <item>문화</item>
+        <item>여행</item>
+        <item>기타</item>
+    </string-array>
+
+</resources>
